@@ -142,4 +142,8 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
+# idea
+.idea
+*.DS_Store
+*.iml
 
